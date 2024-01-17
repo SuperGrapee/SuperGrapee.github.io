@@ -14,7 +14,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2026 Fall. Contact me if you have any leads!**
 
 - **Sep 2020 - June 2024:** Chongqing University (BEng)
 - **June 2022 - August 2022:** Cambridge University (Summer School Program)
@@ -31,7 +31,7 @@ Expect to apply for a two-year MPhil program and will graduate in Sep 2026. Look
 - Organic Semiconductors
 - Artificial Intelligence
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on practical problems that wearable and flexible electronic devices face in real life, especially in **Intelligent Medical Treatments**. My interests include the **Soft Electronics** and its applications in **Human-Computer Interfaces**. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
 
