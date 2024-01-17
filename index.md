@@ -4,13 +4,13 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://caihanlin.com/luyangyutong.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Luyangyu Tong (Nicholas, 童卢阳宇)**.
 
 I am a senior undergrad majoring in **BME** at Chongqing University.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *lyytong[at]stu[dot]cqu[dot]edu[dot]cn*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *lyytong@stu.cqu.edu.cn*
 
 ## Academic Background
 
