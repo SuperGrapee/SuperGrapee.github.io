@@ -34,12 +34,3 @@ My current research focuses on practical problems that wearable and flexible ele
 
 <br>
 
----
-
-## News and Updates
-
-
-
-<br>
-
-
