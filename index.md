@@ -15,8 +15,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Academic Background
 
 
-- **Sep 2020 - June 2024:** Chongqing University (BEng)
-- **June 2022 - August 2022:** Cambridge University (Summer School Program)
+- **Sep 2020 - Jun 2024:** Chongqing University (BEng)
+- **Jun 2022 - Aug 2022:** Cambridge University (Summer School Program)
 
 Expect to apply for a two-year MPhil program and will graduate in Sep 2026. Looking for PhD position after that.
 
