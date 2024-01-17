@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/luyangyutong.jpg" class="floatpic" width="360" height="480">
+<img src="https://SuperGrapee.github.io/luyangyutong.jpg" class="floatpic" width="360" height="480">
 
 Here is **Luyangyu Tong (Nicholas, 童卢阳宇)**.
 
