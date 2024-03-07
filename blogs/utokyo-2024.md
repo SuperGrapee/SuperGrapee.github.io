@@ -36,20 +36,20 @@ title: 2024fall东京大学工学院电气专攻IME硕士项目申请心路历�
 
 <br>
 
-----
-#### Why UTokyo?
+---
+### Why UTokyo?
 
 
-----
+---
 
-#### Why Electronic Skins?
+### Why Electronic Skins?
 
 
 <br>
 
-----
+---
 
-#### 奔溃的大三暑假
+### 奔溃的大三暑假
 
 
 
@@ -57,7 +57,7 @@ title: 2024fall东京大学工学院电气专攻IME硕士项目申请心路历�
 
 ---
 
-#### 备考EEIS笔试
+### 备考EEIS笔试
 
 
 
