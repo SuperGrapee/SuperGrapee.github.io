@@ -30,7 +30,7 @@ Looking for PhD position after finishing Master's program.
 - Organic Semiconductors
 - Artificial Intelligence
 
-My current research focuses on practical problems that wearable and flexible electronic devices face in real life, especially in **Intelligent Healthcare**. My interests include the **Soft Electronics** and its applications in **Human-Computer Interfaces**. I am working on the next-generation wearable devices. I will join the **[Interactive Electronic Device Lab](https://www.naojimatsuhisa.com/)** as a graduate student and explore soft electronic materials and devices for human and machines under the guidance of **Prof.Naoji Matsuhisa**.
+My current research focuses on practical problems that wearable and flexible electronic devices face in real life, especially in **Intelligent Healthcare**. My interests include the **Soft Electronics** and its applications in **Human-Computer Interfaces**. I am working on the next-generation wearable devices. I will join the *[Interactive Electronic Device Lab](https://www.naojimatsuhisa.com/"Matsuhisa's Lab")* as a graduate student and explore soft electronic materials and devices for human and machines under the guidance of **Prof.Naoji Matsuhisa**.
 
 <br>
 
