@@ -49,8 +49,20 @@ title: 2024fall东京大学工学院电气专攻IME硕士项目申请心路历�
 <br>最近，苹果推出的Vision Pro掀起了新一轮的VR热潮，但缺少触觉传感的虚拟现实设备难以为用户带来更为完整的体验。人体实现触觉传感主要是通过皮肤进行的，触觉感知可粗略分为温度感受和机械刺激，后者还包括粗糙度和硬度等，越真实的触觉再现，所要求的感知维度也就越多。香港城市大学软生物电子实验室的于教授团队研发了一种基于执行器阵列的皮肤集成无线触觉接口，可提供多模式和复杂的反馈机制。
 
 <center>
-<img src="/blogs/utokyo-2024.assets/Yu.png" alt="用户佩戴VR设备与触觉传感贴片" title="用户佩戴VR设备与触觉传感贴片">
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="/blogs/utokyo-2024.assets/Yu.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">用户佩戴VR设备与触觉传感贴片</div>
 </center>
+
+作者：一瓶矿泉水
+链接：https://www.zhihu.com/question/42802592/answer/383110578
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 ---
 
