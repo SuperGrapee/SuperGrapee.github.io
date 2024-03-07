@@ -29,11 +29,6 @@ title: 2024fall东京大学工学院电气专攻IME硕士项目申请心路历�
 - **2023/12**：完成IME笔试和面试
 - **2024/02**：收到录取通知书
 
-<center>
-<img src="/blogs/utokyo-2024.assets/admission_offer_certificate.jpg" 
-    style="zoom: 25%;"/>
-<center><br>
-
 
 
 ---
