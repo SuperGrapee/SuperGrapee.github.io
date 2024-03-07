@@ -30,22 +30,22 @@ title: 2024fall东京大学工学院电气专攻IME硕士项目申请心路历�
 - **2024/02**：收到录取通知书
 
 <center>
-<img src="/blogs/utokyo-2024.assets/admission_offer_certificate.jpg">
+<img src="/blogs/utokyo-2024.assets/admission_offer_certificate.jpg" 
+    style="zoom:50%"/>
 <center>
 
-
-----
+---
 
 #### Why UTokyo?
 
-<br>来日本难道不是为了二次元吗
+来日本难道不是为了二次元吗
 
 ----
 
 #### Why Electronic Skins?
 
 
-<br>电子皮肤，听起来总觉得特别赛博朋克。
+电子皮肤，听起来总觉得特别赛博朋克。
 
 ----
 
@@ -53,12 +53,11 @@ title: 2024fall东京大学工学院电气专攻IME硕士项目申请心路历�
 
 
 
-<br>备战2周极速出分托福是种怎样的体验？
+备战2周极速出分托福是种怎样的体验？
 
 ----
 
 #### 备考EEIS笔试
 
 
-
-<br>备考EEIS笔试是申请东大过程中最痛苦的阶段。
+备考EEIS笔试是申请东大过程中最痛苦的阶段。
