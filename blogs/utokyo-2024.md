@@ -13,7 +13,7 @@ title: 2024fall东京大学工学院电气专攻IME硕士项目申请心路历�
 本文记录了笔者申请东京大学EEIS IME硕士项目的心路历程，这是笔者完成的第一所大学研究生项目申请，也是在整个申请季中花费最多心力的一项申请，在此想记录申请过程中的心路历程，琐碎的想法比较多，仅纪念那段平凡但发光的日子。
 
 
-<br>往年工学院第一轮IME项目的放榜时间一般集中在2月15日前后，但今年放榜时间有些许延后，因此等待得颇有些焦虑。大概2月20日中午12点左右，IME交流申请群
+<br>往年工学院第一轮IME项目的放榜时间一般集中在2月15日前后，但今年放榜时间有些许延后，因此等待得颇有些焦虑。大概2月20日中午12点左右，IME交流申请群`557581583`就陆续有人收到录取通知书了。
 
 
 ---
@@ -29,7 +29,14 @@ title: 2024fall东京大学工学院电气专攻IME硕士项目申请心路历�
 - **2023/12**：完成IME笔试和面试
 - **2024/02**：收到录取通知书
 
-![录取通知书](https://supergrapee.github.io/blogs/utokyo-2024/admission_offer_certificate.jpg){:height="30%" width="30%"}
+[录取通知书](https://supergrapee.github.io/blogs/utokyo-2024/admission_offer_certificate.jpg){:height="30%" width="30%"}
+
+<br>
+<center>
+<img src="https://supergrapee.github.io/blogs/utokyo-2024/admission_offer_certificate.jpg"
+    style="zoom: 25%;"/>
+</center>
+<br>
 
 ---
 
