@@ -33,12 +33,13 @@ title: 2024fall东京大学工学院电气专攻IME硕士项目申请心路历�
 <img src="/blogs/utokyo-2024.assets/admission_offer_certificate.jpg">
 <center>
 
-<br>
 
 ----
+
 #### Why UTokyo?
 
 <br>来日本难道不是为了二次元吗
+
 ----
 
 #### Why Electronic Skins?
