@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2024
 
-- [2024fall东京大学申请心路历程](https://supergrape.github.io/blogs/utokyo-2024.md/)
+- [2024fall东京大学申请心路历程](https://supergrapee.github.io/blogs/utokyo-2024/)
 
 
 <br>
