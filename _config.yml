@@ -19,10 +19,7 @@ owner:
   # bilibili: 594030035
   # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   # zhihu: https://www.zhihu.com/people/chlire
-  # facebook: caihanlin2002
   # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:
 
@@ -40,6 +37,8 @@ links:
     url: /
   - title: Awards
     url: /awards/
+  - title: Blogs
+    url: /blogs/
   # - title: Notes
     # url: /notes/
 
