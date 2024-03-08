@@ -6,10 +6,9 @@ title: Notes
 
 ## Paper Reading
 
-- [Internet of Everything](https://caihanlin.com/blogs/IoE/)
-- Cyber-security
-- Machine Learning
-- Molecular Communication
+### 2024
+
+- [A skin-integrated multimodal haptic interface for immersive tactile feedback](https://supergrapee.github.io/notes/paper1/)
 
 
 
