@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /notes/economics/index.html
+permalink: /notes/economics/lesson_one/index.html
 title: Lesson one - Notes from the Principle of Economics
 ---
 
