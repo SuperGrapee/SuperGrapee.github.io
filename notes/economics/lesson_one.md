@@ -43,8 +43,10 @@ title: Lesson one - Notes from the Principle of Economics
    2. 当政府发行了过多的货币时，物价上涨（prices rise when the government prints too much money）
    3. 社会面临通货膨胀和失业之间的短期得失交换（society faces a short-run tradeoff between inflation and unemployment）
 
+下面是十大原理的简单解释
 
 ***1.人们面临得失交换***
+<br>
 
 ***2.某物的成本是为此而放弃的东西***
 - 选择的集合
@@ -53,6 +55,7 @@ title: Lesson one - Notes from the Principle of Economics
 - 某物的**机会成本（opportunity cost）**是为了得到它而放弃的东西
 
 机会成本取决于你所面临的**其他选择**，在很多情况下，某些机会成本容易被忽视（未必和时间或精力的付出直接相关）
+<br>
 
 ***3.理性人考虑边际量***
 - 人们作最优决策时比较边际上的成本和收益（边际变化是对已有行动计划小的，增量调整）
@@ -87,6 +90,7 @@ title: Lesson one - Notes from the Principle of Economics
   - 当政府发行大量货币时，货币的价值就下降（物以稀为贵）
 
 ***10.社会面临通货膨胀与失业之间的短期得失交换***
+<br>
 
 **菲利普斯曲线**说明通货膨胀和失业之间的得失交换，短期中决策者可以通过改变政府支出量、税收量和货币发行量来影响经济所经历的通胀和失业
 
@@ -115,7 +119,6 @@ title: Lesson one - Notes from the Principle of Economics
 - 作出不同的假设用来回答不同的问题
 - 作出什么假设是一种艺术
 - 假设应尽可能少，假设是理论的起点
-
 - 经验数据与理论结论不一致时，理论被证明不成立
 - 经验数据与理论一致时，只能说理论没有被推翻，但不能说理论被证明了
 
@@ -138,7 +141,7 @@ title: Lesson one - Notes from the Principle of Economics
 - 柱形图
 - 时间序列图 
 
-相关关系 $\neq$ 因果关系，时间先后顺序，人的预期的潜在影响，反向因果关系。
+相关关系$\neq$因果关系，时间先后顺序，人的预期的潜在影响，反向因果关系。
 > 经济变量之间的因果关系，***外生变量***是因，***内生变量***是果
 
 > 外生变量：在模型内没得到解释，作为给定的变量
