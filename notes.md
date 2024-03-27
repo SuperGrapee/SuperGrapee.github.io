@@ -19,3 +19,7 @@ title: Notes
 
 - [What is economics and how to think like an economist](https://supergrapee.github.io/notes/economics/lesson_one/)
 <br>
+
+
+- [Specialize and trade](https://supergrapee.github.io/notes/economics/lesson_two/)
+<br>
