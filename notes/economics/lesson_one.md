@@ -6,7 +6,7 @@ title: Lesson one - Notes from the Principle of Economics
 
 ## Lesson One - Notes from the Principle of Economics
 
-> Updated: 2024/03/08
+> Updated: 2024/03/27
 
 > Original vedio links: [Principle of Economics](https://www.bilibili.com/video/BV1am4y1D73g/?spm_id_from=333.337.search-card.all.click&vd_source=d1a3031e05f1b0a7b95b74de5ca1859b)
 
@@ -130,6 +130,7 @@ title: Lesson one - Notes from the Principle of Economics
 
 **生产可能性边界**：效率，机会成本，技术革新
 > 边际收益递减：每增加一单位投入，得到的收益越少
+
 > 边界线上的点与原点连线的斜率表示相对价格比例
 
 对数据的经验分析
@@ -139,8 +140,11 @@ title: Lesson one - Notes from the Principle of Economics
 
 相关关系 $\neq$ 因果关系，时间先后顺序，人的预期的潜在影响，反向因果关系。
 > 经济变量之间的因果关系，***外生变量***是因，***内生变量***是果
+
 > 外生变量：在模型内没得到解释，作为给定的变量
+
 > 内生变量：取决于模型中的其他变量，并在模型内得到解释
+
 > 内生变量与外生变量的划分依据经济模型的不同而不同
 
 - 先发生的事情不一定是后发生事情的原因
