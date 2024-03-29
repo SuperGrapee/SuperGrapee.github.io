@@ -23,3 +23,7 @@ title: Notes
 
 - [Specialize and trade](https://supergrapee.github.io/notes/economics/lesson_two/)
 <br>
+
+
+- [Supply and demand](https://supergrapee.github.io/notes/economics/lesson_three/)
+<br>
