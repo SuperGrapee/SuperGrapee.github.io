@@ -27,3 +27,11 @@ title: Notes
 
 - [Supply and demand](https://supergrapee.github.io/notes/economics/lesson_three/)
 <br>
+
+
+### 微观经济学的力量(KANDORI Michihiro[日])
+
+- [Chapter 1](https://supergrapee.github.io/notes/economics/micro_power_c1/)
+<br>
+
+
