@@ -31,7 +31,7 @@ title: Notes
 
 ### 微观经济学的力量(KANDORI Michihiro[日])
 
-- [Chapter 0](https://supergrapee.github.io/notes/economics/micro_power_c0/)
+- [Chapter 1: Theory of Consumer Behavior](https://supergrapee.github.io/notes/economics/micro_power_c1/)
 <br>
 
 
