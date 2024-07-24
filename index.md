@@ -36,4 +36,4 @@ My current research focuses on practical problems that wearable and flexible ele
 
 ---
 ## News and Updates
-- **Feb 2024:** Grateful to receive a MPhil offer from the Graduate School of Engineering, the University of Tokyo! Thank you very much!
+- **Feb 2024:** Grateful to receive a Master offer from the Graduate School of Engineering, the University of Tokyo! Thank you very much!
